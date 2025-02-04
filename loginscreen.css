@@ -1,0 +1,365 @@
+.login-screen,
+.login-screen * {
+  box-sizing: border-box;
+}
+.login-screen {
+  background: #ffffff;
+  border-radius: 32px;
+  height: 812px;
+  position: relative;
+  overflow: hidden;
+}
+.splash-screen {
+  background: #ffffff;
+  border-radius: 32px;
+  width: 375px;
+  height: 812px;
+  position: absolute;
+  left: -828px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-2 {
+  background: #ffffff;
+  width: 375px;
+  height: 812px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ui-bars-status-bars-time-red-task {
+  width: 375px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.battery {
+  width: 6.49%;
+  height: 25.76%;
+  position: absolute;
+  right: 3.91%;
+  left: 89.6%;
+  bottom: 34.85%;
+  top: 39.39%;
+  overflow: visible;
+}
+.wifi {
+  width: 15.27px;
+  height: 10.97px;
+  position: absolute;
+  left: 315.69px;
+  top: 17.33px;
+  overflow: visible;
+}
+.mobile-signal {
+  width: 17px;
+  height: 10.67px;
+  position: absolute;
+  left: 293.67px;
+  top: 17.67px;
+  overflow: visible;
+}
+.time-style {
+  width: 14.4%;
+  height: 47.73%;
+  position: absolute;
+  right: 80%;
+  left: 5.6%;
+  bottom: 25%;
+  top: 27.27%;
+}
+.task-platter {
+  border-radius: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._9-41 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "SfProText-Semibold", sans-serif;
+  font-size: 15px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 4.76%;
+  top: 9.52%;
+  height: 85.71%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rectangle-22 {
+  background: rgba(208, 248, 8, 0.17);
+  width: 375px;
+  height: 473px;
+  position: absolute;
+  left: 0px;
+  top: -5px;
+}
+.battery2 {
+  width: 6.49%;
+  height: 25.76%;
+  position: absolute;
+  right: 3.91%;
+  left: 89.6%;
+  bottom: 34.85%;
+  top: 39.39%;
+  overflow: visible;
+}
+.wifi2 {
+  width: 15.27px;
+  height: 10.97px;
+  position: absolute;
+  left: 315.69px;
+  top: 17.33px;
+  overflow: visible;
+}
+.mobile-signal2 {
+  width: 17px;
+  height: 10.67px;
+  position: absolute;
+  left: 293.67px;
+  top: 17.67px;
+  overflow: visible;
+}
+.task-platter2 {
+  border-radius: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.ellipse-1 {
+  background: #f08626;
+  border-radius: 50%;
+  width: 301px;
+  height: 12px;
+  position: absolute;
+  left: 37px;
+  top: 423px;
+}
+.group-26 {
+  position: absolute;
+  inset: 0;
+}
+.group-2 {
+  width: 327px;
+  height: 56px;
+  position: static;
+}
+.rectangle-1 {
+  background: #ff5151;
+  border-radius: 10px;
+  width: 327px;
+  height: 56px;
+  position: absolute;
+  left: 23px;
+  top: 651px;
+}
+.group-18 {
+  width: 327px;
+  height: 39px;
+  position: static;
+}
+.rectangle-3 {
+  background: #f3f1f1;
+  border-radius: 10px;
+  width: 327px;
+  height: 39px;
+  position: absolute;
+  left: 25px;
+  top: 575px;
+}
+.group-22 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-12 {
+  background: #ff5151;
+  border-radius: 10px;
+  width: 327px;
+  height: 56px;
+  position: absolute;
+  left: 23px;
+  top: 728px;
+}
+.group-182 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-32 {
+  background: #f3f1f1;
+  border-radius: 10px;
+  width: 327px;
+  height: 39px;
+  position: absolute;
+  left: 23px;
+  top: 503px;
+}
+.kisspng-fruit-basket-clip-art-5-aed-5301-d-44408-1 {
+  width: 301px;
+  height: 281.21px;
+  position: absolute;
+  left: 30px;
+  top: 146px;
+  object-fit: cover;
+}
+.ellipse-2 {
+  background: #f08626;
+  border-radius: 50%;
+  width: 23px;
+  height: 9px;
+  position: absolute;
+  left: 56px;
+  top: 427px;
+}
+.ellipse-3 {
+  background: #f08626;
+  border-radius: 50%;
+  width: 23px;
+  height: 9px;
+  position: absolute;
+  left: 306px;
+  top: 420px;
+}
+.ellipse-4 {
+  background: #f08626;
+  border-radius: 50%;
+  width: 23px;
+  height: 9px;
+  position: absolute;
+  left: 274px;
+  top: 429px;
+}
+.emri-juaj {
+  color: #000000;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: -32px;
+  top: 486px;
+  width: 183px;
+  height: 12px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.kyqu {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 56px;
+  top: 658px;
+  width: 255px;
+  height: 32px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rina {
+  color: #836767;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 12px;
+  top: 494px;
+  width: 88px;
+  height: 36px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.fjal-kalimi-juaj {
+  color: #000000;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: -8px;
+  top: 539px;
+  width: 180px;
+  height: 32px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.div {
+  color: #836767;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 23px;
+  top: 575px;
+  width: 99px;
+  height: 32px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.krijo-llogari-t-re {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 62px;
+  top: 748px;
+  width: 243px;
+  height: 16px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.ose {
+  color: #000000;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 10px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 149px;
+  top: 718px;
+  width: 63px;
+  height: 10px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
