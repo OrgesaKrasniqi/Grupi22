@@ -1,0 +1,53 @@
+#include <QApplication>
+#include <QWidget>
+#include <QVBoxLayout>
+#include <QLabel>
+#include <QPushButton>
+
+class ConfirmationScreen : public QWidget {
+public:
+    ConfirmationScreen(QWidget *parent = nullptr) : QWidget(parent) {
+        setWindowTitle("Konfirmimi i Porosisë");
+        setFixedSize(400, 600);
+
+        QVBoxLayout *layout = new QVBoxLayout(this);
+
+        QLabel *successIcon = new QLabel();
+        successIcon->setPixmap(QPixmap(":/icons/success.png").scaled(100, 100, Qt::KeepAspectRatio));
+        successIcon->setAlignment(Qt::AlignCenter);
+
+        QLabel *title = new QLabel("Urime!!!");
+        title->setAlignment(Qt::AlignCenter);
+        title->setStyleSheet("font-size: 24px; font-weight: bold;");
+
+        QLabel *message = new QLabel("Porosia juaj është marrë dhe po përpunohet. 😊");
+        message->setAlignment(Qt::AlignCenter);
+        message->setWordWrap(true);
+        message->setStyleSheet("font-size: 16px;");
+
+        QPushButton *trackOrderBtn = new QPushButton("Përcjellja e Porosisë");
+        trackOrderBtn->setStyleSheet("background-color: red; color: white; font-size: 16px; padding: 10px; border-radius: 5px;");
+
+        QPushButton *continueShoppingBtn = new QPushButton("Vazhdo me Blerjet");
+        continueShoppingBtn->setStyleSheet("border: 2px solid red; color: red; font-size: 16px; padding: 10px; border-radius: 5px;");
+
+        layout->addSpacing(50);
+        layout->addWidget(successIcon);
+        layout->addSpacing(20);
+        layout->addWidget(title);
+        layout->addWidget(message);
+        layout->addSpacing(30);
+        layout->addWidget(trackOrderBtn);
+        layout->addWidget(continueShoppingBtn);
+        layout->addSpacing(50);
+    }
+};
+
+int main(int argc, char *argv[]) {
+    QApplication app(argc, argv);
+
+    ConfirmationScreen window;
+    window.show();
+
+    return app.exec();
+}
