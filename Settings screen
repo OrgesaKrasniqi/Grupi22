@@ -1,0 +1,41 @@
+#include <QApplication>
+#include <QWidget>
+#include <QVBoxLayout>
+#include <QListWidget>
+#include <QLabel>
+#include <QPushButton>
+#include <QHBoxLayout>
+
+class SettingsScreen : public QWidget {
+public:
+    SettingsScreen(QWidget *parent = nullptr) : QWidget(parent) {
+        setWindowTitle("Cilësimet");
+        resize(300, 500);
+
+        QVBoxLayout *layout = new QVBoxLayout(this);
+
+        QLabel *titleLabel = new QLabel("Cilësimet");
+        titleLabel->setStyleSheet("font-size: 18px; font-weight: bold;");
+        layout->addWidget(titleLabel);
+
+        QListWidget *settingsList = new QListWidget(this);
+        settingsList->addItem("Llogaria");
+        settingsList->addItem("Njoftimet");
+        settingsList->addItem("Privatësia dhe Siguria");
+        settingsList->addItem("Mbështetja");
+        settingsList->addItem("Preferencat e aplikacionit");
+        settingsList->addItem("Ndihmë dhe mbështetje");
+        layout->addWidget(settingsList);
+
+        QLabel *versionLabel = new QLabel("versioni.(1.112233)");
+        versionLabel->setStyleSheet("font-size: 12px; color: gray;");
+        layout->addWidget(versionLabel);
+    }
+};
+
+int main(int argc, char *argv[]) {
+    QApplication app(argc, argv);
+    SettingsScreen window;
+    window.show();
+    return app.exec();
+}
