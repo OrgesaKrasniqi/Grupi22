@@ -1,0 +1,276 @@
+.loginscreen,
+.loginscreen * {
+  box-sizing: border-box;
+}
+.loginscreen {
+  border-radius: 32px;
+  height: 812px;
+  position: relative;
+}
+.group-69 {
+  position: absolute;
+  inset: 0;
+}
+.login-screen {
+  background: #ffffff;
+  border-radius: 32px;
+  width: 375px;
+  height: 812px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #ff5151;
+  border-radius: 10px;
+  width: 327px;
+  height: 56px;
+  position: absolute;
+  left: 20px;
+  top: 658px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-12 {
+  background: #ff5151;
+  border-radius: 10px;
+  width: 327px;
+  height: 55px;
+  position: absolute;
+  left: 20px;
+  top: 566px;
+}
+.emri-juaj {
+  color: #000000;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: -23px;
+  top: 355px;
+  width: 183px;
+  height: 12px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.kyqu {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 47px;
+  top: 603px;
+  width: 255px;
+  height: 5px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.fjal-kalimi-juaj {
+  color: #000000;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: -1px;
+  top: 430px;
+  width: 180px;
+  height: 32px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.krijo-llogari-t-re {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 62px;
+  top: 676px;
+  width: 243px;
+  height: 19px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.ose {
+  color: #000000;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 152px;
+  top: 623px;
+  width: 54px;
+  height: 26px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.ui-bars-status-bars-time-red-task {
+  width: 375px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.battery {
+  width: 6.49%;
+  height: 25.76%;
+  position: absolute;
+  right: 3.91%;
+  left: 89.6%;
+  bottom: 34.85%;
+  top: 39.39%;
+  overflow: visible;
+}
+.wifi {
+  width: 15.27px;
+  height: 10.97px;
+  position: absolute;
+  left: 315.69px;
+  top: 17.33px;
+  overflow: visible;
+}
+.mobile-signal {
+  width: 17px;
+  height: 10.67px;
+  position: absolute;
+  left: 293.67px;
+  top: 17.67px;
+  overflow: visible;
+}
+.time-style {
+  width: 14.4%;
+  height: 47.73%;
+  position: absolute;
+  right: 80%;
+  left: 5.6%;
+  bottom: 25%;
+  top: 27.27%;
+}
+.task-platter {
+  border-radius: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._9-41 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "SfProText-Semibold", sans-serif;
+  font-size: 15px;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 4.76%;
+  top: 9.52%;
+  height: 85.71%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.components-input-form-filled {
+  width: 317.57px;
+  height: 56px;
+  position: absolute;
+  left: 16px;
+  top: 378.69px;
+  transform-origin: 0 0;
+  transform: rotate(-0.304deg) scale(1, 1);
+}
+.container {
+  background: var(--food-light-grey, #f5f5f5);
+  border-radius: 48px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.rina {
+  color: #836767;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 391px;
+  width: 93px;
+  height: 29px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.components-input-form-filled2 {
+  width: 317.57px;
+  height: 60.42px;
+  position: absolute;
+  left: 16px;
+  top: 465.69px;
+  transform-origin: 0 0;
+  transform: rotate(-0.304deg) scale(1, 1);
+}
+.div {
+  color: #836767;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 479px;
+  width: 99px;
+  height: 32px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.breakfast-quinoa-and-red-fruit-salad-134061-1-removebg-preview-2 {
+  border-radius: 1px;
+  width: 173px;
+  height: 173px;
+  position: absolute;
+  left: 101px;
+  top: 144px;
+  object-fit: cover;
+}
