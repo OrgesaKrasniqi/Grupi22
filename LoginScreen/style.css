@@ -7,7 +7,7 @@
   height: 812px;
   position: relative;
 }
-.group-69 {
+.group {
   position: absolute;
   inset: 0;
 }
@@ -21,31 +21,14 @@
   top: 0px;
   overflow: hidden;
 }
-.group-2 {
-  position: absolute;
-  inset: 0;
-}
 .rectangle-1 {
   background: #ff5151;
   border-radius: 10px;
   width: 327px;
   height: 56px;
   position: absolute;
-  left: 20px;
+  left: 24px;
   top: 658px;
-}
-.group-3 {
-  position: absolute;
-  inset: 0;
-}
-.rectangle-12 {
-  background: #ff5151;
-  border-radius: 10px;
-  width: 327px;
-  height: 55px;
-  position: absolute;
-  left: 20px;
-  top: 566px;
 }
 .emri-juaj {
   color: #000000;
@@ -59,23 +42,6 @@
   top: 355px;
   width: 183px;
   height: 12px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: center;
-}
-.kyqu {
-  color: #ffffff;
-  text-align: center;
-  font-family: "ABeeZee-Regular", sans-serif;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: -0.01em;
-  font-weight: 400;
-  position: absolute;
-  left: 47px;
-  top: 603px;
-  width: 255px;
-  height: 5px;
   display: flex;
   align-items: flex-end;
   justify-content: center;
@@ -273,4 +239,30 @@
   left: 101px;
   top: 144px;
   object-fit: cover;
+}
+.rectangle-12 {
+  background: #ff5151;
+  border-radius: 10px;
+  width: 327px;
+  height: 56px;
+  position: absolute;
+  left: 24px;
+  top: 567px;
+}
+.kyqu {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ABeeZee-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  left: 56px;
+  top: 583px;
+  width: 255px;
+  height: 24px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
 }
