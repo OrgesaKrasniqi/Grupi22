@@ -1,0 +1,204 @@
+.feature-screen-1,
+.feature-screen-1 * {
+  box-sizing: border-box;
+}
+.feature-screen-1 {
+  border-radius: 32px;
+  height: 44px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.rectangle-5 {
+  background: #ffffff;
+  border-radius: 43px;
+  width: 101.07%;
+  height: 1845.45%;
+  position: absolute;
+  right: -1.07%;
+  left: 0%;
+  bottom: -1686.36%;
+  top: -59.09%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.mobile-signal {
+  width: 17px;
+  height: 10.67px;
+  position: absolute;
+  left: 293.67px;
+  top: 17.67px;
+  overflow: visible;
+}
+.battery {
+  width: 6.49%;
+  height: 25.76%;
+  position: absolute;
+  right: 3.91%;
+  left: 89.6%;
+  bottom: 34.85%;
+  top: 39.39%;
+  overflow: visible;
+}
+.wifi {
+  width: 15.27px;
+  height: 10.97px;
+  position: absolute;
+  left: 315.69px;
+  top: 17.33px;
+  overflow: visible;
+}
+.time-style {
+  width: 14.4%;
+  height: 47.73%;
+  position: absolute;
+  right: 80%;
+  left: 5.6%;
+  bottom: 27.27%;
+  top: 25%;
+}
+.task-platter {
+  border-radius: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+._9-42 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Jua-Regular", sans-serif;
+  font-size: 15px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 14.29%;
+  height: 85.71%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.image-3 {
+  width: 55.2%;
+  height: 436.36%;
+  position: absolute;
+  right: 20%;
+  left: 24.8%;
+  bottom: -379.55%;
+  top: 43.18%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.tiramisu {
+  color: #000000;
+  text-align: left;
+  font-family: var(
+    --var-sds-typography-body-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: var(--var-sds-typography-body-font-weight-regular, 400);
+  position: absolute;
+  right: 55.2%;
+  left: 6.13%;
+  width: 38.67%;
+  bottom: -515.91%;
+  top: 570.45%;
+  height: 45.45%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.button-danger {
+  background: var(--var-sds-color-background-danger-default, #ec221f);
+  border-radius: var(--var-sds-size-radius-200, 8px);
+  border-style: solid;
+  border-color: var(--var-sds-color-border-danger-secondary, #c00f0c);
+  border-width: 1px;
+  padding: var(--var-sds-size-space-300, 12px);
+  display: flex;
+  flex-direction: row;
+  gap: var(--var-sds-size-space-200, 8px);
+  align-items: center;
+  justify-content: center;
+  width: 7.73%;
+  height: 72.73%;
+  position: absolute;
+  right: 8%;
+  left: 84.27%;
+  bottom: -552.27%;
+  top: 579.55%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+}
+.button {
+  color: var(--var-sds-color-text-danger-on-danger, #fee9e7);
+  text-align: left;
+  font-family: var(
+    --single-line-body-base-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--single-line-body-base-font-size, 16px);
+  line-height: var(--single-line-body-base-line-height, 100%);
+  font-weight: var(--single-line-body-base-font-weight, 400);
+  position: relative;
+}
+.tort-5-20 {
+  text-align: left;
+  position: absolute;
+  right: 13.87%;
+  left: 30.4%;
+  width: 55.73%;
+  bottom: -1454.55%;
+  top: 1518.18%;
+  height: 36.36%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.tort-5-20-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.tort-5-20-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 100%;
+  font-weight: 400;
+}
+.tort-5-20-span3 {
+  color: rgba(0, 0, 0, 0.33);
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 13px;
+  line-height: 100%;
+  font-weight: 400;
+}
+._25-fddad-4-3-a-08-4701-a-4-b-9-f-8-eb-4771249-d-removebg-preview-1 {
+  width: 58.93%;
+  height: 221px;
+  position: absolute;
+  right: 18.4%;
+  left: 22.67%;
+  top: 21px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+  aspect-ratio: 1;
+}
