@@ -1,0 +1,26 @@
+<div class="feature-screen-1">
+  <div class="rectangle-5"></div>
+  <img class="mobile-signal" src="mobile-signal0.svg" />
+  <img class="battery" src="battery0.svg" />
+  <img class="wifi" src="wifi0.svg" />
+  <div class="time-style">
+    <img class="task-platter" src="task-platter0.svg" />
+    <div class="_9-42">9:42</div>
+  </div>
+  <div class="image-3"></div>
+  <div class="tiramisu">Tiramisu</div>
+  <div class="button-danger">
+    <div class="button">-</div>
+  </div>
+  <div class="tort-5-20">
+    <span>
+      <span class="tort-5-20-span">Tortë</span>
+      <span class="tort-5-20-span2"></span>
+      <span class="tort-5-20-span3">5.20€</span>
+    </span>
+  </div>
+  <img
+    class="_25-fddad-4-3-a-08-4701-a-4-b-9-f-8-eb-4771249-d-removebg-preview-1"
+    src="_25-fddad-4-3-a-08-4701-a-4-b-9-f-8-eb-4771249-d-removebg-preview-10.png"
+  />
+</div>
