@@ -1,0 +1,15 @@
+<div class="frame-confirmation">
+        <div class="confirmation-screen">
+            <div class="checkmark-icon">
+                <img src="checkmark.svg" alt="Success">
+            </div>
+            <h2>Urime!!!</h2>
+            <p class="confirmation-text">Porosia juaj është marrë dhe po përpunohet. 😊</p>
+            <div class="confirmation-buttons">
+                <button class="track-order">Përcjella e Porosisë</button>
+                <button class="continue-shopping">Vazhdo me Blerjet</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
