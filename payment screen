@@ -1,0 +1,25 @@
+<div class="frame-8">
+        <div class="payment-screen">
+            <h2>Menyra e Pagesës</h2>
+            <p>Keni 2 produkte në karte:</p>
+            <ul class="cart-items">
+                <li class="cart-item">
+                    <span>Tiramisu</span>
+                    <span>5.00€</span>
+                </li>
+                <li class="cart-item">
+                    <span>Qumësht Qershie</span>
+                    <span>1.50€</span>
+                </li>
+            </ul>
+            <div class="payment-summary">
+                <p>Subtotal: 11.50€</p>
+                <p>Taksat dhe tarifat: 1.00€</p>
+                <p>Dergesa: 3.00€</p>
+                <p class="total">Gjithsej: 15.50€</p>
+            </div>
+            <button class="checkout-button">Arka</button>
+        </div>
+    </div>
+</body>
+</html>
